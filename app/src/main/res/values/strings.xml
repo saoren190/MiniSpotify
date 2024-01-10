@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">Spotify</string>
+    <string name="menu_home">Home</string>
+    <string name="menu_favorite">Favorite</string>
+    <string name="screen_loading">Screen is loading...</string>
+    <string name="album_info">%1s • %2s</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>
+
