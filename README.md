@@ -1,1 +1,1 @@
-# This is the template of the spotify project
+# This is  the spotify project
