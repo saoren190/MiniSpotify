@@ -1,6 +1,6 @@
 # Spotify Mobile App
 ## Project preview
-![spotifyApp](sc01.png)
+![spotifyApp](sc01.png)(sc03.png)
 ## Architecture Diagram
 
 The architecture consists of the following key components:
